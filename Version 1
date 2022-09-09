@@ -1,0 +1,3 @@
+print("1. Login")
+print("2. Register")
+print("3. Quit")
